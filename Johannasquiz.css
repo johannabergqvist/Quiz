@@ -7,6 +7,9 @@ h1 {
 
 	color: green;
 	font-family: "Courier New";
+	margin: 0 0 50px 0;
+
+
 }
 p {
 
@@ -14,9 +17,12 @@ p {
 	font-family: "Courier New", Times, Serif;
 }
 
- {
+ 
+.column1 {
+	background: lightsalmon;
+}
 
- 	
- }
+
+ 
 
 
