@@ -11,6 +11,15 @@ h1 {
 
 
 }
+
+h2 {
+
+	color: #FF00FF;
+	font-family: "Courier New";
+	margin: 0 0 50px 0;
+
+
+}
 p {
 
 	color: #FF00FF;
@@ -22,6 +31,11 @@ p {
 	background: lightsalmon;
 }
 
+button {
+	background-color: #e6ffb3;
+	padding: 15px 32px
+	
+}
 
  
 
